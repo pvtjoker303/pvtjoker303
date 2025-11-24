@@ -8,7 +8,7 @@ I specialize in blending traditional networking with modern DevOps practices. My
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pvtjoker303&show_icons=true&theme=radical&count_private=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pvtjoker303&show_icons=true&border_color=99FA15&theme=ocean_dark&bg_color=00000000)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pvtjoker303&layout=compact&theme=radical) -->
 
