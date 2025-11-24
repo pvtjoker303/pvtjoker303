@@ -6,34 +6,29 @@ I specialize in blending traditional networking with modern DevOps practices. My
 
 ---
 
-# ☁️ Meraki Network Automation Toolkit
-
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)
-![Cisco Meraki](https://img.shields.io/badge/Cisco%20Meraki-Dashboard%20API-green?style=for-the-badge&logo=cisco)
-
----
-
 ## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pvtjoker303&show_icons=true&theme=radical&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pvtjoker303&layout=compact&theme=radical)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pvtjoker303&layout=compact&theme=radical) -->
 
 ---
 
 ## 🛠 Tech Stack & Tools
 
-**Network Automation & Cloud Computation**
+**Network, DevOps and Infrastruture Tools and Skills**
 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-Zero%20Trust-f38020?style=for-the-badge&logo=cloudflare)
-![AWS Cloud Badge](https://img.shields.io/badge/AWS-Cloud%20Infrastructure-purple?style=for-the-badge&logo=aws)
-![Linux](https://img.shields.io/badge/Linux-Management-yellow?style=for-the-badge&logo=linux)
-
-**Infrastructure & DevOps**
-
-![Docker](https://img.shields.io/badge/Docker-Container-blue?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-Version%20Control-red?style=for-the-badge&logo=git)
-![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnu-bash)
+![Python](https://img.shields.io/badge/Python-3.10%2B-3776ab?style=for-the-badge&logo=python&logoColor=white)
+![Cisco Meraki](https://img.shields.io/badge/Cisco%20Meraki-Dashboard%20API-green?style=for-the-badge&logo=cisco&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-Orchestration-ee0000?style=for-the-badge&logo=ansible)
+![Terraform](https://img.shields.io/badge/terraform-Infrastructure%20as%20Code-844fba?style=for-the-badge&logo=terraform&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-Zero%20Trust-f38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![AWS Cloud Badge](https://img.shields.io/badge/AWS-Cloud%20Infrastructure-purple?style=for-the-badge&logo=aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Management-fcc624?style=for-the-badge&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Container-2496ed?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version%20Control-f05032?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![VMware](https://img.shields.io/badge/vmware-Virturalization-607078?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
 
@@ -45,6 +40,6 @@ I specialize in blending traditional networking with modern DevOps practices. My
 ---
 
 
-### 📫 Connect with me
+#### 📫 Connect with me
 * [LinkedIn](https://linkedin.com/in/anthony-acosta-736783123)
 * [Personal Site](https://privatejokers.org)
