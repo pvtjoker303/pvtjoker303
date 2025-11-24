@@ -6,14 +6,28 @@ I specialize in blending traditional networking with modern DevOps practices. My
 
 ---
 
+# ☁️ Meraki Network Automation Toolkit
+
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)
+![Cisco Meraki](https://img.shields.io/badge/Cisco%20Meraki-Dashboard%20API-green?style=for-the-badge&logo=cisco)
+
+---
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pvtjoker303&show_icons=true&theme=radical&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pvtjoker303&layout=compact&theme=radical)
+
+---
+
 ## 🛠 Tech Stack & Tools
 
 **Network Automation & Cloud Computation**
 
-![Cisco Meraki](https://img.shields.io/badge/Cisco%20Meraki-API-green?style=for-the-badge&logo=cisco)
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Debian-orange?style=for-the-badge&logo=linux)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-Origin%20Server-f38020?style=for-the-badge&logo=cloudflare)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-Zero%20Trust-f38020?style=for-the-badge&logo=cloudflare)
+![AWS Cloud Badge](https://img.shields.io/badge/AWS-Cloud%20Infrastructure-purple?style=for-the-badge&logo=aws)
+![Linux](https://img.shields.io/badge/Linux-Management-yellow?style=for-the-badge&logo=linux)
 
 **Infrastructure & DevOps**
 
@@ -26,17 +40,10 @@ I specialize in blending traditional networking with modern DevOps practices. My
 ## 🔭 Current Projects
 
 * **Meraki Dashboard Automation:** A Python-based toolset to interact with the Meraki Dashboard API for bulk configuration changes and monitoring.
-* **Home Lab Setup:** Running various services on Debian Linux using Docker containers.
+* **Home Lab Setup:** Running various services on Linux using Docker containers.
 
 ---
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pvtjoker303&show_icons=true&theme=radical&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pvtjoker303&layout=compact&theme=radical)
-
----
 
 ### 📫 Connect with me
 * [LinkedIn](https://linkedin.com/in/anthony-acosta-736783123)
